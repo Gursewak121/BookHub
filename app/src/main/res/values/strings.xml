@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Welcome To Your Profile</string>
+    <string name="about_app_fragment">All Rights Reserved 2022,Version-1.0</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="hello_world">Hello World</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="privacy_policy_and_terms_of_services">Privacy Policy and Terms Of Services</string>
+</resources>
